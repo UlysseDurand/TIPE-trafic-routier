@@ -1,0 +1,4 @@
+    type graph_ser_paral =
+         Route of arrete
+        |Parallel of (graph_ser_paral*graph_ser_paral)
+        |Serie of (graph_ser_paral*graph_ser_paral);;
