@@ -1,2 +1,0 @@
-\babel@toc {nil}{}
-\beamer@subsectionintoc {0}{1}{graphes s\IeC {\'e}rie/parall\IeC {\`e}le}{7}{0}{0}
